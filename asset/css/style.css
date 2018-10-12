@@ -1,0 +1,36 @@
+.black {
+    background-color: black;
+}
+.red{
+    background-color:red;
+}
+
+.logo {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+    font-size: 20px;
+}
+#batas {
+    padding-top: 80px;
+    color:blue;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUBK-1G_F4oC7oMhkAwHBHRWqCLxvhHQAifVDscj7CqPM64HUuw");
+    height: 120px;
+
+}
+#content1{
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.spasi-kolom {
+    margin: 2% 2% 2% 2%;
+}
+
+#batas2 {
+    padding: 2% 2% 1% 2%;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/189/162/non_2x/vector-circuit-network-diagram-technology-background-design.jpg");
+}
+
+.content-panjang {
+    margin-top: 20px;
+}
